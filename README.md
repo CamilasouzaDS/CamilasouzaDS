@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camila</h1>
 <h3 align="center">A passionate developer from Jaraguá do sul, Brazil</h3>
-<img align="right" alt="coding" width="400" src="bc98c9dcc76893a46fc71f3920846a05.gif (800×600) (pinimg.com)">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilasouzads&label=Profile%20views&color=0e75b6&style=flat" alt="camilasouzads" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **+55 (47)98853-4817**
 
-- 📄 Know about my experiences [Web development, Servicenow CSM](Web development, Servicenow CSM)
+- 📄 Know about my experiences Web development, Servicenow CSM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
