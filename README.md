@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences Web development, Servicenow CSM
 
-<h3 align="left">Connect with me: +55 (47)98853-4817</h3>
+<h3 align="left">Connect with me: camiladossantossouzabus@gmail.com</h3>
 <p align="left">
 </p>
 
