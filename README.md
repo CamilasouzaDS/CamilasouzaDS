@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Camila</h1>
+<h1 align="center">Hello👋</h1>
 <h3 align="center">A passionate developer from Jaraguá do sul, Brazil</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif">
 
