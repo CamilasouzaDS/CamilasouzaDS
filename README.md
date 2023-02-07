@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bunge**
 
-- 🌱 I’m currently learning **Python, Django and JS**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **Web development**
 
