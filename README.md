@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **Bunge**
 
-- 🌱 I’m currently learning **Front-End**
-
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on ** WEB Development**
 
 - 📫 How to reach me **+55 (47)98853-4817**
 
